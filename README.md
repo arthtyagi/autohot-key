@@ -5,8 +5,7 @@ This repository is for my auto hot-key scripts.
 
 Install Auto Hot-key script for your Windows platform since it's available only for Windows.
 [Download here for Windows](https://www.autohotkey.com/download/ahk-install.exe)
-For writing similar scripts on Mac, I suggest [Sikuli Project](http://sikuli.org/) OR this link should work, [Sikuli Help]
-(http://sikulix.com/)
+For writing similar scripts on Mac, I suggest [Sikuli Project](http://sikuli.org/) OR this link should work, [Sikuli Help](http://sikulix.com/)
 
 Write your own scripts to automate simple tasks.
 
